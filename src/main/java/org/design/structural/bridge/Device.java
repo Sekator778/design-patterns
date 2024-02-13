@@ -1,4 +1,4 @@
-package org.design.structural.adapter.bridge;
+package org.design.structural.bridge;
 
 /**
  * Common interface for all devices.

@@ -1,4 +1,4 @@
-package org.design.structural.adapter.bridge;
+package org.design.structural.bridge;
 
 public class Radio implements Device{
     private boolean on = false;

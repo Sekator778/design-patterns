@@ -1,4 +1,4 @@
-package org.design.structural.adapter.bridge;
+package org.design.structural.bridge;
 
 public class Demo {
     public static void main(String[] args) {
